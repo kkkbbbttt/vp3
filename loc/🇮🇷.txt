@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
