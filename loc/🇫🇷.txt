@@ -2,15 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTEyOC1nY206bUJsMWZZaFg4OHhrM0szOUllUHJSbm1zUUR2YjFoNGY=@51.159.103.137:18290#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMmMzOTZhMy05NWRhLTRiZTgtYmVlZi04MzRkMTdkNzU3ODQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MDMwIiwicHMiOiJoYW1lZHA3MTo68J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vless://d5d52c15-f963-42b8-971b-613fc9c5e7e3@109.172.55.220:58198?encryption=none&fp=chrome&pbk=zVumFklIWzpvzrtnlkGG4YRqBbV-diGCouiiSeEwnEE&security=reality&sid=2c8a6793b9de7014&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?security=reality&encryption=none&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=34d8e80d8fa40501#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
