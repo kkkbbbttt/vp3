@@ -4,6 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWJmZDQ3OS0zYzFmLTQ2ZDUtYjgzZC0zY2NiM2YwN2JmOWE=@hd117-tw-jd.huidu51.com:46628#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?security=tls&sni=jsygouer.weixin-baidu-qq.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?type=tcp&security=tls&sni=jsygouer.weixin-baidu-qq.com&fp=chrome&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e8IiwiYWRkIjoicHViLmFwMjAyNjAyMjguY29tIiwicG9ydCI6IjY0MDE4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImE3MzllNzgyLTE2ODItMzhhNS05MTUzLWFhZDA5ZDc3OWFlOSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJwdWIuYXAyMDI2MDIyOC5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
