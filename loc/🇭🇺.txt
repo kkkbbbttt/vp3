@@ -2,5 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4e6IiwiYWRkIjoicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwicG9ydCI6IjgwIiwiaWQiOiI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE2In0
 vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243791121.camry-perma.info&path=/njvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
+vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243791121.camry-perma.info&path=%2Fnjvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
 vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?encryption=none&type=ws&host=639073677243791121.camry-perma.info&path=%2Fnjvqoews&security=tls&sni=639073677243791121.camry-perma.info#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
