@@ -4,3 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://3c60db8b-f2cc-4cf4-92da-caa9169534f9@canada.speedwarp.sbs:443?encryption=none&type=ws&path=%2Fjss&security=tls&sni=canada.speedwarp.sbs#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
