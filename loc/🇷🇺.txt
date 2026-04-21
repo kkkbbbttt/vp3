@@ -4,4 +4,3 @@
 
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.225:10974#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@45.129.3.254:60290#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@94.242.51.174:443?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
