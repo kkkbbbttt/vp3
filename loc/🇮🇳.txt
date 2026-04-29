@@ -19,5 +19,6 @@ vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:8443?security=t
 vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?security=tls&encryption=none&sni=g.sandesh.qzz.io&type=ws&host=g.sandesh.qzz.io&path=%2fvless#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://528bf7f6-2a4f-4701-a1a7-d91f7980e6d5@pq-india1.09vpn.com:80?security=none&encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?security=none&encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?security=none&encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls&fp=chrome&sni=pq-India1.09vpn.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-India1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
