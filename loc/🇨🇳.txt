@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4ezIiwiYWRkIjoiaG4ueG4tLXdscXcxc3dyajA0anU1NmQuY29tIiwicG9ydCI6IjgwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZjlkZGVmYzUtZDEyMS00ODZmLTllMmYtMGMyY2QxYTNkZWNjIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJwYXRoIjoiLyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=cdnjs.com&fp=chrome&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&sid=88ce6b586fcaf681&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B3
