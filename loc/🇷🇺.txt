@@ -4,3 +4,4 @@
 
 ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg==@195.58.49.26:60129#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.9:60129#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&security=reality&encryption=none&fp=chrome&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&sid=9a694cfa8ebd15&sni=www.m.vk.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
