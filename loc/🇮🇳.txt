@@ -3,10 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=tttyder.wsone.icu#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&insecure=1&allowInsecure=1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjIzMjQiLCJwcyI6ImhhbWVkcDcxOjrwn4eu8J+HsyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eu8J+HsyIsImFkZCI6IjE3Mi4yMzIuMTAzLjE4NiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSJ9
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eu8J+HsyIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTUyLjY3LjguMjA1IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjoiY2hyb21lIn0
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh67wn4ezIn0
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
