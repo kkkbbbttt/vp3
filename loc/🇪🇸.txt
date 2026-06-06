@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6rwn4e4IiwiYWRkIjoiODUuOTAuMjE3LjQyIiwicG9ydCI6IjIyMzI0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ
+vless://0f1b984b-dfa1-443c-8c2c-bd17d679e0e2@141.101.90.39:443?encryption=none&type=ws&host=whitedns.04nd0kgs.v6.army&path=%2FeyJqdW5rIjoiV3lBN0RqbTIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=whitedns.04nd0kgs.v6.army#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
