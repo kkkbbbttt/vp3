@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://5JKj82yC2BNxy8LAZha8Gsj2BAexJJU7ttTfeFcuHzmLjAiZ@46.137.202.140:443?type=ws&host=node1.bw8848.org&path=%2Fnode1-node1-5sczzi&security=tls&sni=node1.bw8848.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
