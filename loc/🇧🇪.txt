@@ -4,4 +4,3 @@
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AA
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AA
-vless://7752f6f7-7052-42bf-b571-34a02658cc71@acha.claudify.org:443?path=/news&security=tls&alpn=h3,h2&encryption=none&host=Cdn8-pro.postshup.ir.&fp=chrome&type=ws&sni=Cdn8-pro.postshup.ir.#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AA
