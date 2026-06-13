@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@ru.riotvpn.eu:6443?mode=auto&path=/&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vmess://eyJhZGQiOiI2NjU0YzczNGNjYWI4ZjQ0MGZmMDgyNWViNDQzZGM3Zi5xb3Mub25sIiwiYWlkIjowLCJob3N0IjoidjJwcjlmZW9oMHo4NmFuajJnejlvbm5qZzl2aXVldjBqLm1vYmdzbGIudGJjYWNoZS5jb20iLCJpZCI6IjUyZjljYmZiLTViYjMtM2RkMy1iOTQ3LTcyNWUzNjVjNTlmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoxMDA1NywicHMiOiJoYW1lZHA3MTo68J+Ht/Cfh7oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
