@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://5cd26f2d-e015-42f6-b999-fc1ac8284bc8@212.67.12.8:443?security=reality&encryption=none&pbk=gRiIgKvVibyGZ2E2Oe5smDFBxtUYH7IWISfkUGrozC0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=windows64.net&sid=2c5b9267fa9bb0d0#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
