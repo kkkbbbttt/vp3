@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@Germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&spx=/il4uDVFQ4uJ9mPb&type=xhttp&sni=www.yahoo.com&sid=6f3192#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@84.234.29.132:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@84.234.29.132:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sni=www.yahoo.com&sid=6f3192#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
