@@ -4,13 +4,14 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw==@77.42.33.181:1085#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRjlvZTdpaWJqbkd2VkVyZXhSaU4z@195.133.2.2:34898#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?encryption=none&type=ws&path=%2F&security=tls&sni=server-ir-7.ariyuz.org#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?encryption=none&host=speedtest.com&path=/notbin&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://b8f2f59e-a842-44a8-9374-14dc2b13bcba@65.21.109.91:80?encryption=none&host=speedtest.com&path=/notbin&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5c8a8e6c615b&sni=www.mozilla.org#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://05e3b601-cc07-46dd-9766-d90f7adaa655@65.21.109.91:80?encryption=none&type=ws&host=speedtest.com&path=%2Fnotbin&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?encryption=none&type=ws&host=speedtest.com&path=%2Fnotbin&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?encryption=none&type=ws&path=%2F&security=tls&sni=server-ir-7.ariyuz.org#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
