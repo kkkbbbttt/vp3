@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
