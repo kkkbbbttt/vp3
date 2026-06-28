@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://60300afa-3366-4ae3-959a-7b50438acebb@45.11.27.86:443?security=reality&encryption=none&pbk=IBzFSziv_xISB-Q6X90PocTBde6jb4X6swEvdZQhqzk&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=d0aae44f#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
