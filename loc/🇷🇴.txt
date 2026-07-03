@@ -4,3 +4,4 @@
 
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.alibaba.com&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.84:448?encryption=none&fp=&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&security=reality&sid=e1bdc95c1554c8eb&sni=www.samsung.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
