@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYkM0M1dlTnh1REFYZG1RWmRrd1Z4@62.133.63.222:48981#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&sni=grape-ataturk-tr.yyuyy.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?type=tcp&security=tls&headerType=none&sni=grape-ataturk-tr.yyuyy.com&fp=chrome&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
