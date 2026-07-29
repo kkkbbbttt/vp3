@@ -4,8 +4,5 @@
 
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@109.163.239.6:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=99e78ee91698aaaa&sni=cdn6-24.yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@try.north-1winter.cv:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?encryption=none&type=grpc&serviceName=grpc&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
