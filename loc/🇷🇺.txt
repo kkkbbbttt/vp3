@@ -4,6 +4,4 @@
 
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://aa91b870-8658-4dcb-a53a-423df017e35b@ru.rush-server.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=findmypackets.com&fp=chrome&insecure=1&allowInsecure=1&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://fe444095-ab4b-45b5-8f25-2c2576fb1968@ru.rush-server.com:443?encryption=none&type=tcp&security=reality&headerType=none&sni=findmypackets.com&fp=firefox&insecure=1&allowInsecure=1&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
