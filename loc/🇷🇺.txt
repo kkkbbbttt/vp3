@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg==@185.22.154.103:10921#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://e7299042-7d8f-440f-8368-2516b0e69341@81.85.78.193:2200?security=none&type=ws&host=rzd.ru&path=%2Fv1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
