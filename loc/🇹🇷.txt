@@ -3,16 +3,19 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@vpna.poorifast.ir:1080#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?type=ws&host=nl-bl-nl.karmatel.ir&path=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@77.83.245.42:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dev.cloud-compute.rest&fp=firefox&security=reality&pbk=Fd7epdoLVi5UHgGe_2pHYzh3efwKFKPwBC0UhuB5JWM&sid=8cce20a6ad40c0a2#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=auto&sni=www.google.com&fp=firefox&security=reality&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=auto&sni=www.google.com&fp=chrome&security=reality&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@turkey.alfather.ir:2087?mode=auto&path=/&security=none&encryption=none&type=xhttp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?&type=ws&headerType=none&host=nl-bl-nl.karmatel.ir&path=%2F#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://6af3672b-8994-4cf1-aa15-23ce6574ebf0@tr1.auragg.org:25114?encryption=none&fp=chrome&pbk=wwKBICS9Ju9Akz-G7_3ebkHWEU-LPQEYWO3yZcR6fHo&security=reality&serviceName=auragrpc&sid=d5f8a1c3e7b09462&sni=cloudflare.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://444f3779-cc79-4289-b22b-f75bc84be25e@soskeynets.ssdhdd.org:443/?type=tcp&encryption=none&flow=&sni=tasnimnews.ir&fp=chrome&security=reality&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&sid=3b225391611b29e5&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://6af3672b-8994-4cf1-aa15-23ce6574ebf0@185.71.219.199:25129?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cJ8_eQYfNhbi1CzbO53KSyhAA2QfIrr_0ssbYNNgYDw&security=reality&sid=8e2b7f9d0c4a3516&sni=cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?path=/&security=none&encryption=none&host=nl-bl-nl.karmatel.ir&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://69132aad-7a3d-4cd1-9a1c-ff1dfb40e7b2@737c39133ea1e5fd737c39133ea1e5fd.ssdhdd.org:8765?security=reality&encryption=none&pbk=ZrRUiPYpM3K35z4cTmMoDSBcQu_lk5k5NU4TrftiSEA&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=5ba803414e918143#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&allowinsecure=0&type=xhttp&mode=auto&path=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?encryption=none&type=grpc&serviceName=TunService&security=reality&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sni=download.nvidia.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?encryption=none&type=ws&host=nl-bl-nl.karmatel.ir&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@turkey.alfather.ir:2087?encryption=none&type=xhttp&mode=auto&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
