@@ -4,4 +4,6 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6rwn4e4IiwiYWRkIjoiODUuOTAuMjE3LjQyIiwicG9ydCI6IjIyMzI0IiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExNiJ9
+vmess://eyJhZGQiOiIxNjkuNDAuMzIuNDgiLCJpZCI6ImY1NGU5M2QxLWNkOGUtNDM0Zi04MTIyLTQ4ODdlNjJjOTdmNSIsInBvcnQiOiI1MDYxIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJob3N0IjoiMTY5LjQwLjMyLjQ4IiwicGF0aCI6Ii9uZGl3bndpZGllODJJc21zaU9wIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh6rwn4e4In0
 vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es1.hat.onl&sid=76132b3b39704c44#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=es1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&encryption=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
