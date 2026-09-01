@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d2aeb078-90db-4f90-b334-623bcbea8d31@81.90.17.173:443?type=tcp&security=reality&sni=cdnjs.cloudflare.com&fp=firefox&pbk=zSUGAaQT4fl4OGIGQjUkU4gVWvyexICHgLE-bM2GUV4&sid=8d7ec053417caa53&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://7061b26c-0f6c-49b5-be42-af2c011c04bc@54.37.136.194:2053?security=reality&encryption=none&pbk=TtGgrgk1OLMjWBaomJ1JkUOvmtMx7sLJdvvN0bxmZF8&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=bdc1efeb01044e93#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=U1X__Tg779LinTpcP65AVLHtxAGPSKzr04K1Fq_mDy8&sid=146c918c71da5d81&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
