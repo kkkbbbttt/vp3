@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
 vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
