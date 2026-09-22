@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@84.32.217.120:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/channels/act&security=tls&sni=cdn8848.776676.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
+vless://8124ddbb-bf22-49d9-945d-2e72c554deb2@den-khad-nxt.ramzshadi.ir:43312?security=reality&type=tcp&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&sid=194eb312877c9c35&pbk=06vBWFA7tgljTVI9N1pY6L6Ls88me171hrKzeH9-7EQ&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
