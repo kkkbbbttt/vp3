@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%BF
