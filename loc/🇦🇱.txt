@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.89.60.202:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=al-root.sworkingvpn.com&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&fp=firefox#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
+vless://92a25831-2be7-473e-bb64-ca3225a87282@iwouehr.wingerdt.com:22113?mode=auto&path=/&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
