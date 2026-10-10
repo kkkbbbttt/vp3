@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://8ff3db5a-5f41-4f25-a8a4-7fbf00f1c319@31.76.115.238:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&security=reality&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://8ff3db5a-5f41-4f25-a8a4-7fbf00f1c319@gw2.edgemedia.lol:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&security=reality&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
