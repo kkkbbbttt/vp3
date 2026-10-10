@@ -4,3 +4,4 @@
 
 vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&serviceName=astracat&fp=firefox#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.24:2087?type=grpc&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&sid=a11023050f134216&serviceName=astracat&fp=ios#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?encryption=none&type=grpc&serviceName=astracat&security=reality&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sni=www.yandex.ru&sid=6dbf4931096f9890#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
