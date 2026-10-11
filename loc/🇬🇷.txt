@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.150.34:443?security=reality&encryption=none&pbk=NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=3cef317b#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.160.166:443?security=reality&type=tcp&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&sid=3cef317b&pbk=NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=94acb54627612d43&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
