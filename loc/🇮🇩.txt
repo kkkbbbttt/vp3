@@ -3,5 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&sid=&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&sid=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
 vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
 vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?security=reality&encryption=none&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:46984?security=reality&encryption=none&pbk=XBntt77MdH3EMkPXibOAO_NSBrL_aqwiLItU98rqlHE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=9c3c0f8ec8b4af12#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
