@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTAwMDAiLCJwcyI6ImhhbWVkcDcxOjrwn4ey8J+HviIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxMDAwMCIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@111.90.143.184:61111?encryption=none&type=grpc&security=reality&fp=chrome&pbk=jT5prLDhvJ86zZVz5pDX907oQbeZ0Hyb_VcDSiJxQQU&sni=github.com&sid=1378f725da558887#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@111.90.143.184:61111?mode=gun&security=reality&encryption=none&pbk=jT5prLDhvJ86zZVz5pDX907oQbeZ0Hyb_VcDSiJxQQU&fp=chrome&type=grpc&sni=github.com&sid=1378f725da558887#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
