@@ -4,5 +4,3 @@
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7fwn4e6IiwiYWRkIjoiMTU4LjE2MC4xODAuMTY1IiwicG9ydCI6MjQyMTIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImM1OGMxMjA1LWIzMDgtNDE2Zi04NTAzLWMwNDU1N2FiZjkzZCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?encryption=none&type=ws&path=%252Fwsru&host=xsru2.freeddns.org&security=tls&sni=xsru2.freeddns.org&fp=random#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&security=tls&sni=wsru1.wba-pn.ru&fp=chrome&type=ws&path=/&host=194.87.143.165#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
