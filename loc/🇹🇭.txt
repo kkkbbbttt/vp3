@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80/?type=ws&encryption=none&flow=&host=aIs.SpEeDtEsT.nEt&path=%2Fws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?fp=firefox&security=tls&sni=th001.zestapp778.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?fp=chrome&security=tls&sni=th001.zestapp778.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
