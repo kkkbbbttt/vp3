@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?sni=softice.net&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?flow=xtls-rprx-vision&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://26f751bc-2edc-4338-9c3f-abeb32aba3b7@45.151.101.130:443?security=reality&type=tcp&sni=d61rdw0na.assetcache.click&fp=firefox&flow=xtls-rprx-vision&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
