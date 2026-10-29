@@ -2,11 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@91.206.92.238:18443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vmess://eyJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjE1OC4xNjAuMTgwLjE2NSIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyNDIxMiIsInBzIjoiaGFtZWRwNzE6OvCfh7fwn4e6Iiwic2N5IjoiYXV0byIsInNuaSI6IjE1OC4xNjAuMTgwLjE2NSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://6a33e818-0df7-4795-a978-54d1c24cc9c0@193.160.140.98:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://5ce803ae-a81c-4276-b1f8-ee3b845c5c4b@193.160.140.168:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://5ce803ae-a81c-4276-b1f8-ee3b845c5c4b@193.160.140.168:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&host=Copy_Shode_az_Chanel0111Net#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU=@195.58.49.167:18443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&type=tcp&packetEncoding=xudp&sni=ya.ru&fp=chrome&sid=23103e1e&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
