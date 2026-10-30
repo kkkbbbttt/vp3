@@ -1,0 +1,8 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.45.6:8080?security=none&type=ws&path=%2F&host=free.nadun.store#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B0
+vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.46.6:8080?security=none&type=ws&path=%2F&host=free.nadun.store#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B0
+vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@support.zoom.us:8080?security=none&type=ws&path=%2F&host=free.nadun.store&sni=support.zoom.us#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B0
+vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@support.zoom.us:8080?security=none&type=ws&path=%2F&host=free.nadun.store#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B0
