@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://706bce83-91db-4260-b175-cba29145cd56@93.152.223.244:443?flow=xtls-rprx-vision&fp=qq&pbk=yKwDGqOdkC_nEPOQHMvAQLPcPK8YHskv_opYoY66Yk8&security=reality&sni=ddk5-ger.newagetechnologies.live&type=tcp#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+vless://7c730089-1791-4828-89b2-86e7e1663063@gb.privatevip.ir:449?encryption=none&host=gb.privatevip.ir&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
