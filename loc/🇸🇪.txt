@@ -2,8 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@159.194.251.76:8388#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare-dns.com&fp=firefox&flow=xtls-rprx-vision&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://9c6e83fc-b755-4ad4-9b0a-14b610153d8f@31.172.65.4:8443?security=reality&type=tcp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=0e7741edc378622f&pbk=wRvUAKwcHc4pBNVouIcVjQkVD9aCRR-AmtcFyBV36lU#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&path=%2fvless#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
