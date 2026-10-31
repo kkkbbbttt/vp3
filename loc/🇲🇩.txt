@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:443?security=reality&type=tcp&sni=svoboda18.bystriynet.online&fp=firefox&flow=xtls-rprx-vision&sid=7c41ea9b53d618af&pbk=TS4XYds5zXG3-cU_zgA3jE6zoDc-Q1WXMQnVj4bdRhA#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
