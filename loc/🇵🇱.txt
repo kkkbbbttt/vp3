@@ -2,20 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl134.vpnbook.com:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://d4001352-dc64-48b8-b786-5860b284ad3d@94.183.209.182:443?security=reality&type=tcp&packetEncoding=xudp&sni=steamcommunity.com&fp=edge&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087/?type=tcp&encryption=none&flow=&security=tls&sni=2.26.6.1&fp=firefox#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.26.6.1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://d4001352-dc64-48b8-b786-5860b284ad3d@94.183.209.182:443?security=reality&type=tcp&packetEncoding=xudp&sni=steamcommunity.com&fp=chrome&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://69e41e64-a832-471a-b740-94577ca85520@2.26.255.215:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&security=reality&sid=50&sni=cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@179.198.49.218:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9CKMhiYPXEIfQh_XFbbN1GoBxeLxJkaar2wg9FZKfBo&security=reality&sid=75fe71d16ccae610&sni=assets-44.topp-con.xyz&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@217.60.33.67:8443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-r5xcA3iTzAf63kkb0VIILrLHH1VUq550pFZ-M74Jlc&sid=de&sni=go-obsh-auto-drun.keno.su#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.37:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
