@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?encryption=none&type=grpc&serviceName=grpc-90&security=reality&fp=chrome&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sni=max.ru&sid=cbc638acc8ac87#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?security=reality&type=grpc&mode=gun&serviceName=grpc-90&sni=max.ru&fp=chrome&sid=cbc638acc8ac87&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
