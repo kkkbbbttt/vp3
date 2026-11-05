@@ -1,0 +1,8 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&type=grpc&serviceName=vlgrpc&security=tls&alpn=h2&fp=chrome&sni=kk-ru24a1.testkknegr.online#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?allowInsecure=0&sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=vlgrpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
