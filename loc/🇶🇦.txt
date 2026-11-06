@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=as10.cdn77.icu&type=tcp#hamedp71%3A%3A%F0%9F%87%B6%F0%9F%87%A6
