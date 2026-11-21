@@ -4,4 +4,4 @@
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://debafe5b-6760-4b00-b0b2-ee30cbf769f0@ujp.xn--ghqu5fm27b67w.com:443?path=/e0843c8ad581&security=tls&encryption=none&insecure=0&host=portland-wins-robbie-skirt.trycloudflare.com&fp=chrome&type=ws&allowInsecure=0&sni=portland-wins-robbie-skirt.trycloudflare.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
