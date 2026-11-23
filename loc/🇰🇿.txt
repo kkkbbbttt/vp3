@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?encryption=none&flow=xtls-rprx-vision&fp=&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&security=reality&sid=6859f5b59e55aa30&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?encryption=none&fp=&mode=auto&path=/&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&security=reality&sni=cdn3-88.yahoo.com&type=xhttp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
